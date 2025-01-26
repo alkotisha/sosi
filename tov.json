@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Роза Красная",
+        "cost": 2.99,
+        "articul": "R001",
+        "description": "Классическая красная роза, символ любви и страсти.",
+        "rating": 4.8,
+        "image": "img/rr.jpg"
+    },
+    {
+        "name": "Тюльпан Желтый",
+        "cost": 1.99,
+        "articul": "T002",
+        "description": "Яркий желтый тюльпан, символ весны и радости.",
+        "rating": 4.5,
+        "image": "img/tt.jpg"
+    },
+    {
+        "name": "Лилия Белая",
+        "cost": 3.50,
+        "articul": "L003",
+        "description": "Нежная белая лилия, символ чистоты и невинности.",
+        "rating": 4.7,
+        "image": "img/ll.jpg"
+    },
+    {
+        "name": "Гербера Розовая",
+        "cost": 2.50,
+        "articul": "G004",
+        "description": "Яркая розовая гербера, символ дружбы и заботы.",
+        "rating": 4.6,
+        "image": "img/gg.jpg"
+    },
+    {
+        "name": "Орхидея Фиолетовая",
+        "cost": 5.99,
+        "articul": "O005",
+        "description": "Экзотическая фиолетовая орхидея, символ роскоши и красоты.",
+        "rating": 4.9,
+        "image": "img/oo.jpg"
+    },
+    {
+        "name": "Хризантема Желтая",
+        "cost": 2.20,
+        "articul": "H006",
+        "description": "Солнечная желтая хризантема, символ осени.",
+        "rating": 4.4,
+        "image": "img/xx.jpg"
+    },
+    {
+        "name": "Пионы Розовые",
+        "cost": 4.00,
+        "articul": "P007",
+        "description": "Ароматные розовые пионы, символ счастья и удачи.",
+        "rating": 4.8,
+        "image": "img/pp.jpg"
+    },
+    {
+        "name": "Фрезия Белая",
+        "cost": 3.25,
+        "articul": "F008",
+        "description": "Нежная белая фрезия с приятным ароматом.",
+        "rating": 4.5,
+        "image": "img/ff.jpg"
+    },
+    {
+        "name": "Лаванда",
+        "cost": 1.75,
+        "articul": "L009",
+        "description": "Ароматная лаванда, символ спокойствия и гармонии.",
+        "rating": 4.6,
+        "image": "img/la.jpg"
+    },
+    {
+        "name": "Нарцисс",
+        "cost": 2.10,
+        "articul": "N010",
+        "description": "Яркий нарцисс, символ весны и обновления.",
+        "rating": 4.3,
+        "image": "img/na.jpg"
+    },
+    {
+        "name": "Каллы",
+        "cost": 4.50,
+        "articul": "K011",
+        "description": "Элегантные каллы, символ изящества и красоты.",
+        "rating": 4.7,
+        "image": "img/kk.jpg"
+    },
+    {
+        "name": "Астры",
+        "cost": 3.00,
+        "articul": "A012",
+        "description": "Яркие астры, символ осени и изобилия.",
+        "rating": 4.5,
+        "image": "img/aa.jpg"
+    },
+    {
+        "name": "Гвоздика",
+        "cost": 1.50,
+        "articul": "G013",
+        "description": "Нежная гвоздика, символ любви и памяти.",
+        "rating": 4.4,
+        "image": "img/gv.jpg"
+    },
+    {
+        "name": "Золотистая Роза",
+        "cost": 3.75,
+        "articul": "R014",
+        "description": "Редкая золотистая роза, символ богатства и успеха.",
+        "rating": 4.9,
+        "image": "img/zr.jpg"
+    },
+    {
+        "name": "Розовый Тюльпан",
+        "cost": 2.20,
+        "articul": "T015",
+        "description": "Розовый тюльпан, символ любви и счастья.",
+        "rating": 4.6,
+        "image": "img/rt.jpg"
+    }
+]
