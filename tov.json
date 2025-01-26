@@ -4,7 +4,7 @@
         "cost": 2.99,
         "articul": "R001",
         "description": "Классическая красная роза, символ любви и страсти.",
-        "rating": 4.8,
+        "rating": 3.8,
         "image": "img/rr.jpg"
     },
     {
@@ -28,7 +28,7 @@
         "cost": 2.50,
         "articul": "G004",
         "description": "Яркая розовая гербера, символ дружбы и заботы.",
-        "rating": 4.6,
+        "rating": 2.6,
         "image": "img/gg.jpg"
     },
     {
@@ -36,7 +36,7 @@
         "cost": 5.99,
         "articul": "O005",
         "description": "Экзотическая фиолетовая орхидея, символ роскоши и красоты.",
-        "rating": 4.9,
+        "rating": 3.9,
         "image": "img/oo.jpg"
     },
     {
