@@ -39,4 +39,88 @@
         "rating": 4.8,
         "image": "img/box5.jpg"
     }
+    json
+
+Copy
+[
+    {
+        "name": "Красная лента для упаковки",
+        "articul": "R0001",
+        "cost": 1.50,
+        "description": "Красная лента для надежной упаковки и декорирования.",
+        "rating": 4.7,
+        "image": "img/ribbon_red.jpg"
+    },
+    {
+        "name": "Зеленая лента для упаковки",
+        "articul": "G0001",
+        "cost": 1.50,
+        "description": "Зеленая лента для надежной упаковки и декорирования.",
+        "rating": 4.7,
+        "image": "img/ribbon_green.jpg"
+    },
+    {
+        "name": "Синяя лента для упаковки",
+        "articul": "B0001",
+        "cost": 1.50,
+        "description": "Синяя лента для надежной упаковки и декорирования.",
+        "rating": 4.7,
+        "image": "img/ribbon_blue.jpg"
+    },
+    {
+        "name": "Желтая лента для упаковки",
+        "articul": "Y0001",
+        "cost": 1.50,
+        "description": "Желтая лента для надежной упаковки и декорирования.",
+        "rating": 4.7,
+        "image": "img/ribbon_yellow.jpg"
+    },
+    {
+        "name": "Черная лента для упаковки",
+        "articul": "BK0001",
+        "cost": 1.50,
+        "description": "Черная лента для надежной упаковки и декорирования.",
+        "rating": 4.7,
+        "image": "img/ribbon_black.jpg"
+    },
+    {
+        "name": "Белая лента для упаковки",
+        "articul": "W0001",
+        "cost": 1.50,
+        "description": "Белая лента для надежной упаковки и декорирования.",
+        "rating": 4.7,
+        "image": "img/ribbon_white.jpg"
+    },
+    {
+        "name": "Розовая лента для упаковки",
+        "articul": "P0001",
+        "cost": 1.50,
+        "description": "Розовая лента для надежной упаковки и декорирования.",
+        "rating": 4.7,
+        "image": "img/ribbon_pink.jpg"
+    },
+    {
+        "name": "Фиолетовая лента для упаковки",
+        "articul": "V0001",
+        "cost": 1.50,
+        "description": "Фиолетовая лента для надежной упаковки и декорирования.",
+        "rating": 4.7,
+        "image": "img/ribbon_purple.jpg"
+    },
+    {
+        "name": "Оранжевая лента для упаковки",
+        "articul": "O0001",
+        "cost": 1.50,
+        "description": "Оранжевая лента для надежной упаковки и декорирования.",
+        "rating": 4.7,
+        "image": "img/ribbon_orange.jpg"
+    },
+    {
+        "name": "Серая лента для упаковки",
+        "articul": "GR0001",
+        "cost": 1.50,
+        "description": "Серая лента для надежной упаковки и декорирования.",
+        "rating": 4.7,
+        "image": "img/ribbon_gray.jpg"
+    }
 ]
